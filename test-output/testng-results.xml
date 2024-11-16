@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-20T17:12:21 EET" name="Default suite" finished-at="2024-10-20T17:12:23 EET" duration-ms="2035">
+  <suite started-at="2024-11-16T13:39:58 EET" name="Default suite" finished-at="2024-11-16T13:40:00 EET" duration-ms="2001">
     <groups>
     </groups>
-    <test started-at="2024-10-20T17:12:21 EET" name="Default test" finished-at="2024-10-20T17:12:23 EET" duration-ms="2035">
+    <test started-at="2024-11-16T13:39:58 EET" name="Default test" finished-at="2024-11-16T13:40:00 EET" duration-ms="2001">
       <class name="MyTestCase">
-        <test-method is-config="true" signature="mySetUp()[pri:0, instance:MyTestCase@5669c5fb]" started-at="2024-10-20T17:12:21 EET" name="mySetUp" finished-at="2024-10-20T17:12:22 EET" duration-ms="1364" status="PASS">
+        <test-method is-config="true" signature="mySetUp()[pri:0, instance:MyTestCase@18920cc]" started-at="2024-11-16T13:39:58 EET" name="mySetUp" finished-at="2024-11-16T13:40:00 EET" duration-ms="1512" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mySetUp -->
-        <test-method signature="logIn()[pri:1, instance:MyTestCase@5669c5fb]" started-at="2024-10-20T17:12:22 EET" name="logIn" finished-at="2024-10-20T17:12:23 EET" duration-ms="345" status="PASS">
+        <test-method signature="logIn()[pri:1, instance:MyTestCase@18920cc]" started-at="2024-11-16T13:40:00 EET" name="logIn" finished-at="2024-11-16T13:40:00 EET" duration-ms="284" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logIn -->
-        <test-method signature="addToCart()[pri:2, instance:MyTestCase@5669c5fb]" started-at="2024-10-20T17:12:23 EET" name="addToCart" finished-at="2024-10-20T17:12:23 EET" duration-ms="268" status="PASS">
+        <test-method signature="addToCart()[pri:2, instance:MyTestCase@18920cc]" started-at="2024-11-16T13:40:00 EET" name="addToCart" finished-at="2024-11-16T13:40:00 EET" duration-ms="175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCart -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:MyTestCase@5669c5fb]" started-at="2024-10-20T17:12:23 EET" name="afterTest" finished-at="2024-10-20T17:12:23 EET" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:MyTestCase@18920cc]" started-at="2024-11-16T13:40:00 EET" name="afterTest" finished-at="2024-11-16T13:40:00 EET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
